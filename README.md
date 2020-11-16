@@ -8,3 +8,6 @@
 ### To check the similarity between a summary provided and the summary generated through the project use the similarity_checker jupyter notebook, and before you do so please make sure to run the file through the ex_text_summarizer jupyter notebook so that it gets added to the summaries.csv file. Note that the row number in the csv file containing a summary corresponds to the similarity_checker's output. For example if the output says Similarity for doc 1, then it has calculated the similarity of the summaries present in the first row of the csv file.
 
 ### The project report can be found under the report directory
+
+## Link to the interviews:
+### https://drive.google.com/drive/folders/1DAQxYwrw4IhkqqNgnWqOx0dao38EBXrN?usp=sharing
